@@ -3113,9 +3113,13 @@ input, select, textarea {
 			border: 0;
 			display: inline-block;
 			font-size: 0.8em;
-			height: inherit;
+			height: 7em;
 			line-height: inherit;
 			padding: 0 1.5em;
+			background-image: url('../../images/logo_loco_sm.png');
+			background-repeat: no-repeat;
+			background-size: contain;
+			width: 12em;
 		}
 
 			#header .logo strong {
