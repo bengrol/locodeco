@@ -16,7 +16,7 @@
                 </div>
             </div>
             <ul class="actions">
-                <li><button id="locoContactFormInput" type="submit" value="Envoi Message" class="primary" /></li>
+                <li><input id="locoContactFormInput" type="submit" value="Envoi Message" class="primary" /></li>
                 <li><input type="reset" value="Efface" /></li>
             </ul>
         </form>
